@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=plantuml
+GenericName=plantuml
+Comment=plantuml
+Type=Application
+Terminal=true
+Icon=plantuml
+Exec=plantuml %U
+Keywords=plantuml
+Categories=Office
+MimeType=text/x-plantuml

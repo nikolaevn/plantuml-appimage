@@ -1,0 +1,11 @@
+app: plantuml
+
+ingredients:
+  script:
+    - echo DONE1
+
+script:
+  - cp -R /home/nnikolaev/w/temp/plantuml-appimage/rootfs/usr ./
+  - cp /home/nnikolaev/w/temp/plantuml-appimage/plantuml.desktop ./
+  - cp /home/nnikolaev/w/temp/plantuml-appimage/plantuml.png ./
+
